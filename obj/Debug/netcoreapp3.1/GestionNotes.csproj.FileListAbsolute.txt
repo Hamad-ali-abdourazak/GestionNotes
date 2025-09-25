@@ -1,0 +1,11 @@
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.exe
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.deps.json
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.runtimeconfig.json
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.runtimeconfig.dev.json
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.dll
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\bin\Debug\netcoreapp3.1\GestionNotes.pdb
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\obj\Debug\netcoreapp3.1\GestionNotes.csprojAssemblyReference.cache
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\obj\Debug\netcoreapp3.1\GestionNotes.AssemblyInfoInputs.cache
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\obj\Debug\netcoreapp3.1\GestionNotes.AssemblyInfo.cs
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\obj\Debug\netcoreapp3.1\GestionNotes.dll
+C:\Users\bilar\OneDrive\Bureau\GestionNotes\obj\Debug\netcoreapp3.1\GestionNotes.pdb
