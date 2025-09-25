@@ -1,4 +1,4 @@
-# Gestion des Notes
+# GestionNotes
 
 Système simple de gestion des notes d'étudiants en C#.
 
